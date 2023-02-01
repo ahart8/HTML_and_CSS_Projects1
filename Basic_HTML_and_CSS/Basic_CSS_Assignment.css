@@ -1,0 +1,28 @@
+
+/*Import the font from Google*/
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+
+h1{
+text-align:center;
+text-shadow: 0 0 4px #00FF00, 5px 5px 5px #4B0082;	 
+color: black;
+font-family: 'Creepster', cursive;
+  }
+  
+h3{
+text-decoration:underline wavy #00FF00;
+font-size:large;
+}
+
+ol{
+	list-style-type:lower-roman;
+}
+
+ul{
+	list-style-type:circle;
+}
+
+footer{
+	text-align:right;
+	
+}
