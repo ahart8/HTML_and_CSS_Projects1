@@ -1,0 +1,105 @@
+/********************************
+        SELECTOR STYLING
+********************************/
+
+nav,a,h1,h2,p,input {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(4, 132, 175);
+}
+
+body {
+    background-color: lightcyan;
+}
+
+a:hover {
+    color: rgb(159, 198, 211);
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.heading-padding {
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+
+/*********************************
+      Form Styling
+*********************************/
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 20%;
+    background-color: rgb(159, 198, 211);
+    text-align: center;
+    border-radius: 10px;
+}
+
+.subscription form {
+    font-size: 15px;
+    outline: none;
+    font-weight: 600;
+    color: #8d8e8f;
+    padding: 12px 12px;
+    width: 75%;
+    border: 1px solid #808080;
+    margin: 0% auto;
+    border-radius: 7px;
+    background: rgb(221, 222, 222);
+    box-shadow: 2px 3px 3px 0px rgba(0, 0, 0, 0.3);
+}
+
+input {
+    margin-bottom: 10px;
+    /*Makes the space on the form*/
+}
+
+.form-spacer {
+    padding: 10px 10px;
+}
+
+.submit input[type="submit"] {
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    border: none;
+    font-weight: 900;
+    outline: none;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0px 3%;
+    padding: 7px 0px;
+    width: 60px;
+    font-size: 12px;
+    transition: border-color 0.3s color 0.3s background-color 0.3s;
+    /***gives us the effect on the submit button***/
+    border-radius: 7px;
+    background-color: #797a7b;
+    box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.3);
+}
+
+.submit input[type="submit"]:hover {
+    color: #000;
+    background-color: #8d8e8f;
+    box-shadow: inset 1px 2px 15px 0 rgba(0, 0, 0, 0.5);
+}
+
+.contact-us {
+    float: left;
+}
+
+footer {
+    padding-top: 10px;
+    background-color: rgba(0, 0, 0, 0.3);
+}
