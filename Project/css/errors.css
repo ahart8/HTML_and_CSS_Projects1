@@ -1,0 +1,31 @@
+
+/**********************************************
+    ADD THE CSS IN ORDER OF THE 
+    SELECTORS IN HTML SO IT CODE IS ORGANIZED
+***********************************************/   
+
+body {
+    background-color: lightblue;
+}
+
+h1,h2,h3,
+p {
+    color: darkblue;
+}
+
+h3 {
+    text-align: center; /***I grouped the others together above to avoid repeated code.***/
+}
+
+img{
+    height: 300;
+    width: 600;
+    border: dotted red;
+}
+
+#frame{
+   
+    width: 600px;
+    height: 300px;
+   
+}
