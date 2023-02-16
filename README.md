@@ -1,4 +1,6 @@
 # HTML_and_CSS_Projects1
+
+The code contained in this repository is the code that I created during the HTML and CSS courses that I took at the Tech Academy in 2022-2023.
  
 ## Projects
 
@@ -13,6 +15,11 @@
 - Space_Station_Basic
 
 - bootstrap4_project
+
+
+
+### One Page Website
+A one page website that was edited to use CSS. This site contains images and a video.
 
 ### Space Station Site
 
