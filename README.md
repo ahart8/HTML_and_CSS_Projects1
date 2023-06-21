@@ -23,7 +23,7 @@ A one page website that was edited to use CSS. This site contains images and a v
 
 ### Space Station Site
 
-This page is an example home page for a Space travel company. It's styled using CSS and contains a navebar, image conainers and a form.
+This page is an example home page for a Space travel company. It's styled using CSS and contains a navbar, image conainers and a form.
 
 ### Bootstrap4 Project
 
